@@ -55,8 +55,8 @@
         "104.21.69.44",
         "104.17.147.22",
         "104.17.148.22",
-        "104.18.1.48",
-        "104.18.0.48"
+        "104.18.0.48",
+        "104.18.1.48"
       ]
     },
     "independent_cache": true
@@ -114,7 +114,7 @@
       "tag": "All🇩🇪@Hiddify_Nexttt § 0",
       "server": "www.speedtest.net",
       "server_port": 2086,
-      "uuid": "RK_VPS--RK_VPS-27",
+      "uuid": "RK_VPS--RK_VPS-29",
       "transport": {
         "type": "ws",
         "path": "/RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS",
@@ -194,7 +194,7 @@
     },
     "clash_api": {
       "external_controller": "127.0.0.1:6756",
-      "secret": "3euxU5DWdqE23ePw"
+      "secret": "IqhDw0Asju0jh9td"
     }
   }
 }
